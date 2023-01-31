@@ -1,0 +1,119 @@
+
+*{
+    box-sizing: border-box;
+}
+
+*{
+    background-color: grey;
+}
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white ;
+}
+
+h1{
+    font-size: 45px;
+    font-family: 'Playfair Display', serif;
+}
+
+h2{
+    font-size: 35px;
+}
+
+.tituloBloque{
+    font-family: 'Saira Condensed', sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+   position: relative;
+    left: 4%;
+}
+
+
+#titulo{
+    position: absolute;
+top: 40px; left: 600px;
+}
+
+#foto{
+    position: absolute;
+    top: 60px; left: 950px;
+}
+
+#perfil{
+    position: absolute;
+    top: 260px; left: 100px;
+}
+#tituloPerfil{
+    position: absolute;
+    left: 43%;
+    top: -30px;
+    text-align: center;
+}
+
+#contacto{
+    position: absolute;
+    top: 400px; left: 100px;
+}
+
+#experiencia{
+    position: absolute;
+    top: 400px; left: 875px;
+}
+
+#expTitulo{
+    position: absolute;
+    left: 2%; top: -3px;
+}
+
+
+
+#itemlargo1{
+    font-size: 85%;
+}
+
+#formacion{
+    position: absolute;
+    top: 170px; left: -770px;
+}
+
+#proyectos{
+    position: absolute;
+    top: 330px; left: -770px;
+}
+
+#referencia1{
+    position: absolute;
+    top: 44px; left: 500px;
+}
+
+#referencia2{
+    position: absolute;
+    top: 217px; left: 500px;
+}
+
+#referencia3{
+    position: absolute;
+    top: 360px; left: 500px;
+}
+
+
+/**posicion de iconos */
+#maletin{
+    position: absolute;
+    top:-3px;
+}
+
+#tele{
+    position: absolute;
+    top: 0px; left: -5px;
+}
+
+#birrete{
+    position: absolute;
+    top: 0px; left: -5px;
+}
+
+#proyectosIcono{
+    position: absolute;
+    top: 0px; left: -5px;
+}
